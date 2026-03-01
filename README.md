@@ -1,1 +1,1 @@
-# student-cli-tool
+MIT License
